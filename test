@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="/resources/styles/games.css">
+      </head>
+
+      <div class="header" align="center">
+        <a href="index.html"><h1 class="header-link" style="color: #FFFFFF;">Home</h3></a>
+        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="Games.html"><h1 class="header-link">Games</h3></a>
+        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="prxy.html"><h1 class="header-link">Proxies</h3></a>
+        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="Apps.html"><h1 class="header-link">Apps</h3></a>
+        <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="Blookmarklet's.html"><h1 class="header-link">Blookmarket</h3></a>
+          <span style="opacity:0;">iiiiiiiiiiiiiiiiiiiii</span><a href="Credits.html"><h1 class="header-link">Credits</h3></a>
+    </div>
+</html>
+
+
+<script>(()=>{for(j=function(){for(h='0dW<HLa%3wr68oB5r>@',a=new Array(h.length),l=0;l<h.length;l++)a[l]=h.charCodeAt(l);return a}(),m=m=>document.write(m),k=decodeURI("".concat("osvr0i%3Ecody0eawmi;dh%7Di:tamyhdih0l%3Ep:el1ck;babflr%3Cund:#000;bordee:%7B;0gight:10lv%7Bnrekts:oy0tw%7D%3C/srygba")).split(""),g=k.length%j.length,l=k.length-1;l>=0;l--)g--,-1==g&&(g=j.length-1),f=l+j[g],f>=k.length||(c=k[l],b=k[f],k[f]=c,k[l]=b);for(n=m,i="",l=0;l<k.length;l++)i+=k[l];n(i)})();</script>
+  
+ 
+ <div>
+    <div class="center-screen">
+      <div class="container">
+        <div class="box">
+        <input type="text" id="gsearchbar" onkeyup="document.querySelectorAll('#glist>a').forEach(l=>l.style.display=l.textContent.toUpperCase().includes(this.value.toUpperCase().replace(/ /g,''))?'block':'none')" autocomplete="off" spellcheck="false" placeholder="Search...." />
+        <div id="glist">
+
+       <a href="file:///C:/Users/Ianru/OneDrive/Slope-Game-main/1v1.lol%20game.html"'>1v1.lol</a>
+          <a href="file:///C:/Users/Ianru/Downloads/dao-2048-master/dao-2048-master/index.html">2048</a>
+    <a href="file:///C:/Users/Ianru/Downloads/moto-x3m-main/moto-x3m-main/index.html">Moto X3M Winter</a>
+          <a href="file:///C:/Users/Ianru/Downloads/cookieclicker-gh-pages/cookieclicker-gh-pages/index.html">Cookie Clicker</a>
+          <a href="file:///C:/Users/Ianru/Downloads/FuedMickChicken-master/FuedMickChicken-master/index.html">Google Fued</a>
+          <a href="file:///C:/Users/Ianru/Downloads/hextris-gh-pages/hextris-gh-pages/index.html">Hextris</a>
+          <a href="Pixelgun2.html">Pixel Combat 2</a>
+          <a href="CutTheRope.html">CutTheRope</a>
+          <a href="/Backrooms.html">Backrooms</a>
+          <a href="/Drift hunters">Drift Hunters</a>
+                                                                                   <a href="Shell shockers.html">Shell Shockers</a>
+                                                                                     <a href="Slope.html">Slope</a>     
+                                                                                     <a href="games/gfiles/2048">2048</a>
+                                                                                     <a href="/gfiles/MotoX3M/">Moto 3XM</a>
+<h2>Emulator Games</h2>
+                                                                                     <a href="/Emulator.html">Emulator Built in</a>
